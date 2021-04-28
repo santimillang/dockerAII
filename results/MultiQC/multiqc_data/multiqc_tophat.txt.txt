@@ -1,0 +1,2 @@
+Sample	overall_aligned_percent	concordant_aligned_percent	aligned_total	aligned_multimap	total_reads	aligned_discordant	unaligned_total	aligned_not_multimapped_discordant
+tophat	62.7	59.6	1749.0	3.0	2937.0	0	1188.0	1746.0

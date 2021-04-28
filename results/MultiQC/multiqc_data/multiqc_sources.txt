@@ -1,0 +1,18 @@
+Module	Section	Sample Name	Source
+Tophat	all_sections	tophat	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/tophat/tophat.out.2/align_summary.txt
+Bowtie 2 / HiSAT2	all_sections	bowtie.left_kept_reads.m2g_um_seg1	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/tophat/tophat.out.2/logs/bowtie.left_kept_reads.m2g_um_seg1.log
+Bowtie 2 / HiSAT2	all_sections	bowtie.left_kept_reads.m2g_um_seg2	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/tophat/tophat.out.2/logs/bowtie.left_kept_reads.m2g_um_seg2.log
+Bowtie 2 / HiSAT2	all_sections	bowtie.left_kept_reads.m2g_um	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/tophat/tophat.out.2/logs/bowtie.left_kept_reads.m2g_um.log
+Bowtie 2 / HiSAT2	all_sections	bowtie.right_kept_reads.m2g_um_seg2	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/tophat/tophat.out.2/logs/bowtie.right_kept_reads.m2g_um_seg2.log
+Bowtie 2 / HiSAT2	all_sections	bowtie.right_kept_reads.m2g_um_seg4	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/tophat/tophat.out.2/logs/bowtie.right_kept_reads.m2g_um_seg4.log
+Bowtie 2 / HiSAT2	all_sections	bowtie.right_kept_reads.m2g_um_seg3	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/tophat/tophat.out.2/logs/bowtie.right_kept_reads.m2g_um_seg3.log
+Bowtie 2 / HiSAT2	all_sections	bowtie.left_kept_reads	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/tophat/tophat.out.2/logs/bowtie.left_kept_reads.log
+Bowtie 2 / HiSAT2	all_sections	bowtie.right_kept_reads.m2g_um_seg1	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/tophat/tophat.out.2/logs/bowtie.right_kept_reads.m2g_um_seg1.log
+Bowtie 2 / HiSAT2	all_sections	bowtie.left_kept_reads.m2g_um_seg4	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/tophat/tophat.out.2/logs/bowtie.left_kept_reads.m2g_um_seg4.log
+Bowtie 2 / HiSAT2	all_sections	bowtie.left_kept_reads.m2g_um_seg3	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/tophat/tophat.out.2/logs/bowtie.left_kept_reads.m2g_um_seg3.log
+Bowtie 2 / HiSAT2	all_sections	bowtie.right_kept_reads	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/tophat/tophat.out.2/logs/bowtie.right_kept_reads.log
+Bowtie 2 / HiSAT2	all_sections	bowtie.right_kept_reads.m2g_um	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/tophat/tophat.out.2/logs/bowtie.right_kept_reads.m2g_um.log
+FastQC	all_sections	ggal_liver_2	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/fastqc/ggal_liver_2_fastqc.zip
+FastQC	all_sections	ggal_gut_2	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/fastqc/ggal_gut_2_fastqc.zip
+FastQC	all_sections	ggal_gut_1	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/fastqc/ggal_gut_1_fastqc.zip
+FastQC	all_sections	ggal_liver_1	/home/santi/tfg/my_pipeline/work/1f/a1a2dac5c2df11e9a4722a164e0f47/fastqc/ggal_liver_1_fastqc.zip

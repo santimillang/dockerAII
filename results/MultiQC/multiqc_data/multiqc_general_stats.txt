@@ -1,0 +1,18 @@
+Sample	Bowtie 2 / HiSAT2_mqc-generalstats-bowtie_2_hisat2-overall_alignment_rate	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences	Tophat_mqc-generalstats-tophat-overall_aligned_percent	Tophat_mqc-generalstats-tophat-aligned_not_multimapped_discordant
+bowtie.left_kept_reads	36.41							
+bowtie.left_kept_reads.m2g_um	42.14							
+bowtie.left_kept_reads.m2g_um_seg1	10.66							
+bowtie.left_kept_reads.m2g_um_seg2	9.55							
+bowtie.left_kept_reads.m2g_um_seg3	8.9							
+bowtie.left_kept_reads.m2g_um_seg4	2.13							
+bowtie.right_kept_reads	36.17							
+bowtie.right_kept_reads.m2g_um	42.68							
+bowtie.right_kept_reads.m2g_um_seg1	10.34							
+bowtie.right_kept_reads.m2g_um_seg2	9.88							
+bowtie.right_kept_reads.m2g_um_seg3	9.97							
+bowtie.right_kept_reads.m2g_um_seg4	1.49							
+ggal_gut_1		14.334354783792989	45.0	103.97957099080695	20.0	2937.0		
+ggal_gut_2		14.164113040517535	45.0	105.0	30.0	2937.0		
+ggal_liver_1		14.334354783792989	45.0	103.97957099080695	20.0	2937.0		
+ggal_liver_2		14.164113040517535	45.0	105.0	30.0	2937.0		
+tophat							62.7	1746.0
